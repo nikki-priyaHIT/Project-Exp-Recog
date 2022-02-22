@@ -1,5 +1,7 @@
 # Project-Exp-Recog
 # Expressions-Recognition
+![unnamed](https://user-images.githubusercontent.com/66662965/155121272-3940306b-fa12-436b-8b1a-016bf95951a1.png)
+
 ![1_Gkbf0PuGyxRht_ngfTC2cA](https://user-images.githubusercontent.com/66662965/115056706-cb074600-9f00-11eb-941c-d3f2530826fb.gif)
 
 
@@ -118,6 +120,7 @@ You have made your contributions. Kudos to you!! 🎉✌🏻🙌🏻
 
 #### For any more issues and queries, please connect with me 
 ## 🤝 Connect
+![gssoc](https://user-images.githubusercontent.com/66662965/155122029-b0b149d0-a19c-4fb2-9e27-6e2beb02f62d.png)
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/20b4219a/)
 [![Skill](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikkiPriya8)
