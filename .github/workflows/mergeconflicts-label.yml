@@ -4,7 +4,7 @@ on:
       - master
 jobs:
   triage:
-    runs-on: windows
+    runs-on: ubuntu-latest
     steps:
       - uses: mschilde/auto-label-merge-conflicts@master
         with:
