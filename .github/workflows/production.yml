@@ -6,7 +6,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: windows
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
