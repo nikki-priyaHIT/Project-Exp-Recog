@@ -1,17 +1,18 @@
 import tkinter as tk
 from tkinter import Message, Text
-import cv2
-import os
-import shutil
-import csv
-import numpy as np
-from PIL import Image, ImageTk
-import pandas as pd
-import datetime
-import time
 import tkinter.ttk as ttk
 import tkinter.font as font
-from pathlib import Path
+import os
+# import shutil
+# import csv                    # to be added when working on the Expression_Recognition model
+# import numpy as np
+# from PIL import Image, ImageTk
+# import pandas as pd
+# import cv2
+#from pathlib import Path
+# import datetime
+# import time
+
  
 window = tk.Tk()
 window.title("Expression_Recognition")
