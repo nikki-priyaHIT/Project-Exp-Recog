@@ -1,12 +1,23 @@
-# Project-Exp-Recog
-# Expressions-Recognition
-![unnamed](https://user-images.githubusercontent.com/66662965/155121272-3940306b-fa12-436b-8b1a-016bf95951a1.png)
+<p align="center">
+  <img src="https://i1.wp.com/sefiks.com/wp-content/uploads/2018/01/kid-expressions-cover.png?resize=459%2C409&ssl=1" width="350" title="logo">
+</p>
 
-![1_Gkbf0PuGyxRht_ngfTC2cA](https://user-images.githubusercontent.com/66662965/115056706-cb074600-9f00-11eb-941c-d3f2530826fb.gif)
+<h1 align="center">Facial Expression Recognition</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/issues/nikki-priyaHIT/Project-Exp-Recog" title="logo">
+  <img src="https://img.shields.io/github/issues-pr/nikki-priyaHIT/Project-Exp-Recog" title="logo">
+  <img src="https://img.shields.io/github/forks/nikki-priyaHIT/Project-Exp-Recog" title="logo">
+  <img src="https://img.shields.io/github/stars/nikki-priyaHIT/Project-Exp-Recog" title="logo">
+  <img src="https://img.shields.io/github/license/nikki-priyaHIT/Project-Exp-Recog" title="logo">
+</p>
 
 
-## About OpenCV:
- 
+# About
+
+This project is made by convolutional neural network (CNN) in Keras from scratch to recognize facial expressions. The data consists of 48x48 pixel grayscale images of faces. The objective is to classify each face based on the emotion shown in the facial expression into one of seven categories using OpenCV to automatically detect faces in images and draw bounding boxes around them.
+
+# What is OpenCV?
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day. 
 
 ##  Getting Started 👨‍💻
