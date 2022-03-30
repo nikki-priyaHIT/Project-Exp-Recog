@@ -1,0 +1,9 @@
+[2022-03-26 14:03:58,309: INFO: main] Application started
+[2022-03-26 14:03:59,210: INFO: _internal]  * Restarting with stat
+[2022-03-26 14:04:12,076: INFO: main] Application started
+[2022-03-26 14:04:12,360: WARNING: _internal]  * Debugger is active!
+[2022-03-26 14:04:12,375: INFO: _internal]  * Debugger PIN: 206-930-161
+[2022-03-26 14:04:12,403: INFO: _internal]  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+[2022-03-26 14:05:49,342: INFO: _internal]  * Detected change in 'C:\\Users\\umang\\Desktop\\Ineuron\\opensource\\New folder\\Project-Exp-Recog\\model.py', reloading
+[2022-03-26 14:05:51,106: INFO: _internal]  * Restarting with stat
+[2022-03-26 14:06:49,802: INFO: _internal]  * Restarting with stat
