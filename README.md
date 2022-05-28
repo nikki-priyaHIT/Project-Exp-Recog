@@ -13,6 +13,10 @@
 
 
 # About
+GFJGDSKFGKJDGVJDVHJVSGVKJGV
+KGEFQKGFJKGDSJVGLJD VHL V
+VHLDGVJLGVJL  DW
+
 
 This project is made by convolutional neural network (CNN) in Keras from scratch to recognize facial expressions. The data consists of 48x48 pixel grayscale images of faces. The objective is to classify each face based on the emotion shown in the facial expression into one of seven categories using OpenCV to automatically detect faces in images and draw bounding boxes around them.
 
