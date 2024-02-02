@@ -18,11 +18,31 @@ This project is made by convolutional neural network (CNN) in Keras from scratch
 
 # Technologies
 ![Technologies](https://user-images.githubusercontent.com/69976168/160343354-0b908850-171e-4b27-ac10-f86c041cef72.jpg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png" width="200" title="Libraries">
+</p>
 
-# What is OpenCV?
+## What is OpenCV?
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day. 
 OpenCV is a huge library. One can get lost while reading specific feature documentation and its implementation. So, the repository aims to have a minimal implementation of all OpenCV features together, under one roof.
 OpenCV-Python is the Python API of OpenCV. It combines the best qualities of OpenCV C++ API and Python language.
+
+## What is DeepFace?
+DeepFace is a Facebook research group's deep learning facial recognition technology. In digital photos, it recognizes human faces. The software was trained on four million photographs shared by Facebook users and uses a nine-layer neural network with approximately 120 million connection weights. In the Labeled Faces in the Wild (LFW) data set, where human humans have 97.53 percent accuracy, the DeepFace approach achieves an accuracy of 97.35 percent 0.25 percent, according to the Facebook Research team. DeepFace, as a result, is sometimes more successful than humans.
+
+# Important Libraries
+
+## Tensorflow
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="200" title="Libraries">
+</p>
+TensorFlow is a Google-developed open-source library for deep learning applications. Conventional machine learning is also supported. TensorFlow was originally designed for complex numerical computations rather than deep learning. However, it proved to be quite valuable for deep learning development, so Google made it open-source.
+
+## Flask
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" width="400" title="Libraries">
+</p>
+Flask is a web framework and a Python module that makes it simple to create web applications. It's a microframework without an ORM (Object Relational Manager) or other features, thus it's small and easy to modify. It has a lot of cool features, such as url routing and a template engine. It's a web application framework that uses the WSGI protocol.
 
 # Getting Started 👨‍💻
 
